@@ -1,7 +1,5 @@
 # the Lever level editor
 ## Introduction
-![Screenshot](https://loafhead.me/content/images/2017/10/lever.png)
-
 This is a level editor for [Minerscale/genesis-rpg](Minerscale/genesis-rpg). 
 
 It uses electron for the UI, and LEV for the level format. It's specifically designed for Minerscale's project, so changes might seem odd without context.

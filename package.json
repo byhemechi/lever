@@ -1,5 +1,5 @@
 {
-  "name": "Lever",
+  "name": "lever",
   "version": "0.1.0",
   "homepage": "https://loafhead.me",
   "email": "george@loafhead.me",
@@ -12,7 +12,7 @@
     "electron-builder": "^19.33.0"
   },
   "build": {
-    "appId": "loafhead.leved"
+    "appId": "org.loafhead.leved"
   },
   "scripts": {
     "pack": "electron-builder --dir",

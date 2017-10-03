@@ -148,6 +148,7 @@ function onresize() {
     ld[i] = ta
   }
   lw.updateDisplay()
+  lh.updateDisplay()
 }
 
 var patterns = [

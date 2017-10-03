@@ -15,6 +15,7 @@
     "appId": "org.loafhead.leved"
   },
   "scripts": {
+    "dev": "electron .",
     "pack": "electron-builder --dir",
     "dist": "electron-builder"
   }

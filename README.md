@@ -14,6 +14,16 @@ or for npm
 ```sh
 npm install
 ```
+## For development (without full build)
+For Yarn (recommended)
+```sh
+yarn dev
+```
+or for npm
+```sh
+npm run dev
+```
+
 ### For Linux
 ```sh
 yarn run pack --linux

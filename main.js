@@ -104,6 +104,7 @@ var settings = {
         settings.width = data.width;
         settings.height = data.height;
         onresize();
+
         settings.name = data.name;
         settings.music = data.music;
         settings.tileset = data.tileset;
@@ -146,6 +147,8 @@ function onresize() {
     }
     ld[i] = ta
   }
+  lw.updateDisplay()
+  lh.updateDisplay()
 }
 
 var patterns = [

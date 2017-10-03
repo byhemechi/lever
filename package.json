@@ -1,5 +1,7 @@
 {
   "name": "lever",
+  "description": "A level editor for a game for the Sega Megadrive",
+  "author": "zsty",
   "version": "0.1.1",
   "homepage": "https://loafhead.me",
   "email": "george@loafhead.me",

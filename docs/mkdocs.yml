@@ -1,0 +1,9 @@
+site_name: the Lever level editor
+theme:
+  name: "material"
+  logo:
+    icon: "videogame_asset"
+  palette:
+    primary: "red"
+repo_name: "zsty/lever"
+repo_url: "https://github.com/zsty/lever"

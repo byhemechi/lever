@@ -6,4 +6,5 @@ theme:
   palette:
     primary: "red"
 repo_name: "zsty/lever"
+edit_uri: "edit/master/docs/docs"
 repo_url: "https://github.com/zsty/lever"
